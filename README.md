@@ -3,8 +3,6 @@
 
 A state of the art video generation model by [Genmo](https://genmo.ai).
 
-https://github.com/user-attachments/assets/4d268d02-906d-4cb0-87cc-f467f1497108
-
 ## Overview
 
 Mochi 1 preview is an open state-of-the-art video generation model with high-fidelity motion and strong prompt adherence in preliminary evaluation. This model dramatically closes the gap between closed and open video generation systems. We’re releasing the model under a permissive Apache 2.0 license. Try this model for free on [our playground](https://genmo.ai/play).
