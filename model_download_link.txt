@@ -1,0 +1,3 @@
+https://huggingface.co/genmo/mochi-1-preview/resolve/main/decoder.safetensors
+https://huggingface.co/genmo/mochi-1-preview/resolve/main/dit.safetensors
+https://huggingface.co/genmo/mochi-1-preview/resolve/main/encoder.safetensors
